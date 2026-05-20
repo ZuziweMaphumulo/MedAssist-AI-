@@ -129,7 +129,11 @@ Multilingual support
 Patient history tracking
 
 👩‍💻 Author:
-Zuziwe Lucia maphumulo
+Zuziwe Maphumulo
+Anele Sibiya
+Siphamandla Khumalo
+Nonhlanhla Zuma
+Snethemba Ndimande
 Aspiring AI/ML Engineer passionate about building intelligent healthcare and automation solutions.
 
 🔗 Links
