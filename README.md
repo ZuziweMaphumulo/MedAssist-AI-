@@ -77,3 +77,70 @@ Example functionalities include:
 - Symptom classification
 - Patient prioritization
 - Healthcare assistance recommendations
+
+
+Screenshots
+Home Interface
+
+(<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/8172d1d2-ec12-40c8-a012-a2c18930e2aa" />
+)
+
+Chatbot Interaction
+
+(<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/4caa533a-0069-4f20-8833-65ea73f02b71" />
+)
+
+Workflow Diagram
+
+([My First Board.pdf](https://github.com/user-attachments/files/28046534/My.First.Board.pdf)
+)
+
+🔄 Data Flow
+User enters symptoms
+AI processes symptom information
+System determines urgency level
+Patient receives recommendations or next steps
+Healthcare staff receive organized patient information
+🎯 Project Objectives
+Improve healthcare efficiency
+Reduce waiting times
+Support healthcare workers
+Enhance patient prioritization
+Demonstrate AI integration in healthcare systems
+🌍 Real-World Impact
+
+MedAssist AI addresses real-world healthcare challenges by supporting faster decision-making and improving operational efficiency in healthcare facilities.
+
+Potential benefits include:
+
+Faster patient processing
+Better resource allocation
+Improved patient outcomes
+Reduced staff workload
+🚀 Future Improvements
+
+Future versions of MedAssist AI may include:
+
+Real-time hospital integration
+Advanced machine learning models
+Voice-enabled assistance
+Mobile application support
+Multilingual support
+Patient history tracking
+
+👩‍💻 Author:
+Zuziwe Lucia maphumulo
+Aspiring AI/ML Engineer passionate about building intelligent healthcare and automation solutions.
+
+🔗 Links
+GitHub Repository
+
+(https://github.com/ZuziweMaphumulo/MedAssist-AI-/)
+
+Live Demo / Prototype
+
+(https://crepe-zippy-27761868.figma.site/register)
+
+LinkedIn
+
+(www.linkedin.com/in/zuziwe-lucia-maphumulo-3375b92a5)
